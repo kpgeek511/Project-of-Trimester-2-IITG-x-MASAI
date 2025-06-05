@@ -6,8 +6,6 @@ A full-stack web application for managing patient records, built with:
 - **Frontend**: React.js
 - **Database**: MongoDB
 
-![System Architecture](https://i.imgur.com/JKQyZ1L.png)
-
 ## Features
 
 ### Patient Management
